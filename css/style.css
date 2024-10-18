@@ -1,0 +1,32 @@
+header, footer{
+    background-color: cyan;
+}
+.principalTitle{
+    text-align: center;
+}
+
+.secondaryTitle{
+    text-align: end;
+}
+
+main{
+    background-color: lightcyan;
+}
+
+.pic{
+    height: 150px;
+}
+
+.logo{
+    height: 50px;
+}
+td{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+table{
+    margin: 0 auto;
+    border-style: solid;
+    border-color: brown;
+}
